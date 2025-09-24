@@ -1,0 +1,6 @@
+#to do 
+
+* Ajouter des fichiers
+* Modifier des fichiers
+* Voir l'historique 
+* Ne pas avoir peur des merges
