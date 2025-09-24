@@ -1,7 +1,7 @@
 #to do 
 
-* Ajouter et modifier des fichiers
-* Ajouter des nouvelles personnes
+* Ajouter des fichiers
+* Modifier des fichiers
 * Voir l'historique 
 * Ne pas avoir peur des merges et des rebase
 * Ajout d'utilisateur 
